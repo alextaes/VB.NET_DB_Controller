@@ -1,0 +1,128 @@
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Form1.resources
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbproj.GenerateResource.Cache
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Resources.resources
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbprojResolveAssemblyReference.cache
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\MySqlBackup.dll
+C:\Users\alex_\OneDrive\Documentos\Visual Studio 2010\Projects\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\MySqlBackup.dll
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbprojResolveAssemblyReference.cache
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Form1.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Resources.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbproj.GenerateResource.Cache
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaProd.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelProd.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModProd.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\MySqlBackup.dll
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbprojResolveAssemblyReference.cache
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Form1.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCar.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCat.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaProd.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaTi.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCar.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCat.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelProd.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelTi.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCar.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCat.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModProd.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModTi.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Resources.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbproj.GenerateResource.Cache
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCar.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCat.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaTi.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCar.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCat.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelTi.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCar.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCat.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModTi.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderItem.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderTi.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFiltroCat.resources
+C:\Users\alex_\OneDrive\Escritorio\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormMapa.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFiltroCat.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderItem.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderTi.resources
+C:\Users\alex_\Desktop\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormMapa.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\MySqlBackup.dll
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbprojResolveAssemblyReference.cache
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Form1.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCar.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCat.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaProd.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaTi.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCar.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCat.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelProd.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelTi.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFiltroCat.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderItem.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderTi.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormMapa.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCar.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCat.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModProd.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModTi.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Resources.resources
+C:\Users\alex_\Google Drive\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbproj.GenerateResource.Cache
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\proyecto_B2\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe.config
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.exe
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.pdb
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\B2-12251-AlejandroTaghaviEspinosa.xml
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\bin\Debug\MySqlBackup.dll
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbprojResolveAssemblyReference.cache
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Form1.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCar.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaCat.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaProd.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormAltaTi.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCar.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelCat.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelProd.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormDelTi.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFiltroCat.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderItem.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormFinderTi.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormMapa.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCar.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModCat.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModProd.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.FormModTi.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2_12251_AlejandroTaghaviEspinosa.Resources.resources
+C:\Users\alex_\Desktop\PROYECTOS INTERFACES\12251-B2-AlejandroTaghavi\B2-12251-AlejandroTaghaviEspinosa\B2-12251-AlejandroTaghaviEspinosa\obj\x86\Debug\B2-12251-AlejandroTaghaviEspinosa.vbproj.GenerateResource.Cache

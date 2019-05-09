@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
+    <ProjectGuid>{1FB4C85E-2715-4FD3-94AB-A68622342508}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>B2_12251_AlejandroTaghaviEspinosa.My.MyApplication</StartupObject>
+    <RootNamespace>B2_12251_AlejandroTaghaviEspinosa</RootNamespace>
+    <AssemblyName>B2-12251-AlejandroTaghaviEspinosa</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>B2-12251-AlejandroTaghaviEspinosa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>B2-12251-AlejandroTaghaviEspinosa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>sql\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup">
+      <HintPath>sql\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaCar.Designer.vb">
+      <DependentUpon>FormAltaCar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaCar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaCat.Designer.vb">
+      <DependentUpon>FormAltaCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaProd.Designer.vb">
+      <DependentUpon>FormAltaProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaTi.Designer.vb">
+      <DependentUpon>FormAltaTi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaTi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDelCar.Designer.vb">
+      <DependentUpon>FormDelCar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDelCar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDelCat.Designer.vb">
+      <DependentUpon>FormDelCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDelCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDelProd.Designer.vb">
+      <DependentUpon>FormDelProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDelProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDelTi.Designer.vb">
+      <DependentUpon>FormDelTi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDelTi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFiltroCat.Designer.vb">
+      <DependentUpon>FormFiltroCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFiltroCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFinderItem.Designer.vb">
+      <DependentUpon>FormFinderItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFinderItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFinderTi.Designer.vb">
+      <DependentUpon>FormFinderTi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFinderTi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMapa.Designer.vb">
+      <DependentUpon>FormMapa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMapa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModCar.Designer.vb">
+      <DependentUpon>FormModCar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModCar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModCat.Designer.vb">
+      <DependentUpon>FormModCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModProd.Designer.vb">
+      <DependentUpon>FormModProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModTi.Designer.vb">
+      <DependentUpon>FormModTi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModTi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaCar.resx">
+      <DependentUpon>FormAltaCar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaCat.resx">
+      <DependentUpon>FormAltaCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaProd.resx">
+      <DependentUpon>FormAltaProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaTi.resx">
+      <DependentUpon>FormAltaTi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDelCar.resx">
+      <DependentUpon>FormDelCar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDelCat.resx">
+      <DependentUpon>FormDelCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDelProd.resx">
+      <DependentUpon>FormDelProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDelTi.resx">
+      <DependentUpon>FormDelTi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFiltroCat.resx">
+      <DependentUpon>FormFiltroCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFinderItem.resx">
+      <DependentUpon>FormFinderItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFinderTi.resx">
+      <DependentUpon>FormFinderTi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMapa.resx">
+      <DependentUpon>FormMapa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModCar.resx">
+      <DependentUpon>FormModCar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModCat.resx">
+      <DependentUpon>FormModCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModProd.resx">
+      <DependentUpon>FormModProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModTi.resx">
+      <DependentUpon>FormModTi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
